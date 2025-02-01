@@ -1,5 +1,5 @@
 # information
-intended to be a port of revised's battle stuff, it is currently in its infancy
+intended to be a port of touhoumon revised's battle stuff, it is currently in its infancy
 and will likely remain so for the foreseeable future because i am a slow worker
 
 
